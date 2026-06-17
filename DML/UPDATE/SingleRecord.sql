@@ -1,0 +1,1 @@
+UPDATE Employee SET Age = 67 WHERE Id = 6;

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/DDL/AlterTable.sql" value="25d3da16-77f5-4e1e-8082-c7c5c44ef588" />
+    <file url="file://$PROJECT_DIR$/DDL/CreateTable.sql" value="25d3da16-77f5-4e1e-8082-c7c5c44ef588" />
+    <file url="file://$PROJECT_DIR$/DDL/DescribeTable.sql" value="25d3da16-77f5-4e1e-8082-c7c5c44ef588" />
+    <file url="file://$PROJECT_DIR$/DDL/DropTable.sql" value="25d3da16-77f5-4e1e-8082-c7c5c44ef588" />
+    <file url="file://$PROJECT_DIR$/DDL/ShowTables.sql" value="25d3da16-77f5-4e1e-8082-c7c5c44ef588" />
+    <file url="file://$PROJECT_DIR$/DML/DELETE/SingleRecord.sql" value="25d3da16-77f5-4e1e-8082-c7c5c44ef588" />
+    <file url="file://$PROJECT_DIR$/DML/INSERT/SingleRecord.sql" value="25d3da16-77f5-4e1e-8082-c7c5c44ef588" />
+    <file url="file://$PROJECT_DIR$/DML/UPDATE/SingleRecord.sql" value="25d3da16-77f5-4e1e-8082-c7c5c44ef588" />
+    <file url="file://$PROJECT_DIR$/DQL/ALL.sql" value="25d3da16-77f5-4e1e-8082-c7c5c44ef588" />
+    <file url="file://$PROJECT_DIR$/TCL/Basic.sql" value="25d3da16-77f5-4e1e-8082-c7c5c44ef588" />
+  </component>
+</project>
